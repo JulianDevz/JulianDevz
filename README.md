@@ -1,6 +1,6 @@
-### Hi there 👋, mi nombre es Julian Pachon
+### Hola 👋, mi nombre es Julian Pachon
 #### Estudiante en desarrollo de Software
-[![Estudiante en desarrollo de Software](https://i.postimg.cc/VvktGDn1/png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room.png)](https://postimg.cc/7Gjbb1KQ)
+[![png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room-1.png](https://i.postimg.cc/zD2HDwTb/png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room-1.png)](https://postimg.cc/nM7h0DRp)
 Apasionado por el mundo de la tecnología y el desarrollo, actualmente me encuentro en proceso de aprendizaje
 
 Skills: HTML / CSS / JS / GIT - Conocimientos bases en Java y React
