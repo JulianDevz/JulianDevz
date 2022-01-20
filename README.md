@@ -2,9 +2,8 @@
 
 #### Estudiante en desarrollo de Software
 [![png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room-1.png](https://i.postimg.cc/zD2HDwTb/png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room-1.png)](https://postimg.cc/nM7h0DRp)
-Apasionado por el mundo de la tecnología y el desarrollo, actualmente me encuentro en proceso de aprendizaje
+Apasionado por el mundo de la tecnología y el desarrollo de sofware, actualmente me encuentro en proceso de aprendizaje
 
-Skills: HTML / CSS / JS / GIT - Conocimientos bases en Java y React
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliantm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
