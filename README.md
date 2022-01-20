@@ -14,6 +14,7 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, actualment
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
 <h2 align="center">My Tech Stack 🧰</h2>
 <p align="center">
+<a href="#"></a>
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
 </a>
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
