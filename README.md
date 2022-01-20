@@ -53,7 +53,7 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, actualment
 <a href="mailto:jpachonl99@gmail.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://https://www.instagram.com/jotta_tm/?hl=es-la">
+<a href="https://www.instagram.com/jotta_tm/?hl=es-la">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
 </p>
