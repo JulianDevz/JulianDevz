@@ -1,4 +1,5 @@
 ### Hola 👋, mi nombre es Julian Pachon
+
 #### Estudiante en desarrollo de Software
 [![png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room-1.png](https://i.postimg.cc/zD2HDwTb/png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room-1.png)](https://postimg.cc/nM7h0DRp)
 Apasionado por el mundo de la tecnología y el desarrollo, actualmente me encuentro en proceso de aprendizaje
@@ -18,7 +19,7 @@ Skills: HTML / CSS / JS / GIT - Conocimientos bases en Java y React
 </div>  
   
   ##
-  
+
 Conecta conmigo:
 <div> 
   <a href = "mailto:jpachonl99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
