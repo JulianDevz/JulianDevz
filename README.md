@@ -1,7 +1,7 @@
 ### Hola!, mi nombre es Julian Pachon <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room-1.png](https://i.postimg.cc/zD2HDwTb/png-transparent-communication-brand-top-view-desk-electronics-computer-organization-Photo-Room-1.png)](https://postimg.cc/nM7h0DRp)
-Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnlogo de sistemas y he realizado un curso en desarrollo de software en el programa MisionTIC 2021, actualmente estoy realizando el curso de desarrollo de software dictado por Alura Latam en convenio con Oracle
+Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnologo de sistemas y he realizado un curso en desarrollo de software en el programa MisionTIC 2021, actualmente estoy realizando el curso de desarrollo de software dictado por Alura Latam en convenio con Oracle
 
 
 <div align="center">
