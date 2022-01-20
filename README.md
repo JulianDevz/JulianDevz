@@ -19,7 +19,6 @@ Skills: HTML / CSS / JS / GIT - Conocimientos bases en Java y React
   ##
 
 <div> 
-  Conecta conmigo:
   <a href = "mailto:jpachonl99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julian-pachón-78ab9b193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
