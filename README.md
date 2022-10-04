@@ -9,9 +9,9 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianDevz&show_icons=true&theme=radical)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianDevz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianDevz&layout=compact&langs_count=7&theme=dracula"/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) 
+  
 </div>
 
 ---
