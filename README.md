@@ -5,7 +5,7 @@
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=JulianTM&label=Profile%20views&color=00b3ff&style=plastic" alt="JulianTM" /> </p>
 
-Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnologo de sistemas y he realizado un curso en desarrollo de software en el programa MisionTIC 2021, actualmente estoy realizando el curso de desarrollo de software dictado por Alura Latam en convenio con Oracle
+Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnologo de sistemas y he realizado un curso en desarrollo de software en el programa MisionTIC 2021, actualmente estoy realizando el curso de Ciencias de datos dictado por Alura Latam
 
 
 <div align="center">
