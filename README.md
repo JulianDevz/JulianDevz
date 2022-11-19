@@ -5,7 +5,7 @@
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=JulianTM&label=Profile%20views&color=00b3ff&style=plastic" alt="JulianTM" /> </p>
 
-Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnologo de sistemas y he participado en diferentes programas como lo son MisionTIC 2021 y Oracle Next Education, actualmente estoy profundizando en el area como Desarrollador Full Stack en Platzi.
+Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnologo de sistemas y he participado en diferentes programas como lo son MisionTIC 2021 y Oracle Next Education, actualmente estoy profundizando en el area como Desarrollador Frontend en Platzi.
 
 
 <div align="center">
