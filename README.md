@@ -48,7 +48,7 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 
 <h2 align="center">My Socials :handshake: </h2>
 <p align="center">
-<a href="https://twitter.com/Julian_TM99">
+<a href="https://twitter.com/JulianDevz">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://www.linkedin.com/in/juliantm/">
