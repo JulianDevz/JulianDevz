@@ -1,4 +1,4 @@
-### Hola!, mi nombre es Julian Pachon <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hola!, mi nombre es Julian Pachon
 
 <p align="center">
   <img src="webbbb.gif" alt="animated" />
