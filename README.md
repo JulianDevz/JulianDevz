@@ -20,7 +20,7 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,git,bootstrap,tailwind,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,git,bootstrap,tailwind,md,wordpress" />
   </a>
 </p
   
