@@ -47,7 +47,7 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JulianDevz?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JulianDevz?cardType=level&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianDevz&layout=compact"/>
   
