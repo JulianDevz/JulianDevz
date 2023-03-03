@@ -7,13 +7,6 @@
 
 Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnologo de sistemas y he participado en diferentes programas como lo son MisionTIC 2021 y Oracle Next Education, actualmente estoy profundizando en el área de Desarrollado web con Php.
 
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianDevz&show_icons=true&theme=tokyonight)
-
-</div>
-
 ---
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
 <h2 align="center">My Tech Stack 🧰</h2>
@@ -49,3 +42,14 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 </p>
 
 ---
+
+
+
+<div align="center">
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JulianDevz?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianDevz&layout=compact"/>
+  
+</div>
+
