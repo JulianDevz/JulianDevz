@@ -11,39 +11,27 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianDevz&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JulianDevz&theme=dracula&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+
 </div>
 
 ---
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
 <h2 align="center">My Tech Stack 🧰</h2>
-<p align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
-</a>
-</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,git,bootstrap,tailwind,wordpress" />
+  </a>
+</p
+  
 ---
 
 <h2 align="center">My Tools :gear: </h2>
 <p align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,vscode,figma,github,netlify,postman" />
+  </a>
+</p
 
 ---
 
