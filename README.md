@@ -22,7 +22,7 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 <h2 align="center">My Tools :gear: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,vscode,figma,github,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=bash,gulp,vscode,figma,github,netlify,postman" />
   </a>
 </p
 
