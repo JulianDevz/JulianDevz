@@ -51,9 +51,8 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianDevz&layout=compact"/>
 
-![Snake animation](https://github.com/JulianDevz/JulianDevz/blob/output/github-snake-dark.svg)
+![snake animation](https://github.com/JulianDevz/JulianDevz/blob/output/github-contribution-grid-snake2.svg)
   
 </div>
 
-![Snake animation](https://github.com/JulianDevz/JulianDevz/blob/output/github-snake-dark.svg)
 
