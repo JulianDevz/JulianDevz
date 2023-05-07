@@ -43,15 +43,15 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 
 ---
 
-
+<div align="center">
+  <a href="https://github.com/JulianDevz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianDevz&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianDevz&layout=compact&langs_count=7&theme=prussian"/>
+</div>
 
 <div align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JulianDevz?cardType=level&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianDevz&layout=compact"/>
-
-![snake gif](https://github.com/JulianDevz/JulianDevz/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/JulianDevz/JulianDevz/blob/output/github-contribution-grid-snake.gif)
   
 </div>
 
