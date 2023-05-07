@@ -54,5 +54,11 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
   ![snake gif](https://github.com/JulianDevz/JulianDevz/blob/output/github-contribution-grid-snake.gif)
   
 </div>
+  
+<div align="center">
+  
+  ![](./profile-3d-contrib/profile-season-animate.svg)
+  
+</div>
 
 
