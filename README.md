@@ -42,18 +42,6 @@ Apasionado por el mundo de la tecnología y el desarrollo de sofware, soy tecnol
 </p>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/JulianDevz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianDevz&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianDevz&layout=compact&langs_count=7&theme=prussian"/>
-</div>
-
-<div align="center">
-  
-  ![snake gif](https://github.com/JulianDevz/JulianDevz/blob/output/github-contribution-grid-snake.gif)
-  
-</div>
   
 <div align="center">
   
